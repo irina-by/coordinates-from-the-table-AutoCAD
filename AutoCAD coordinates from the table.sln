@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoCAD coordinates from the table", "AutoCAD coordinates from the table.csproj", "{49E15FF7-1997-471C-B124-3FCC4A918FBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49E15FF7-1997-471C-B124-3FCC4A918FBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49E15FF7-1997-471C-B124-3FCC4A918FBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49E15FF7-1997-471C-B124-3FCC4A918FBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49E15FF7-1997-471C-B124-3FCC4A918FBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3735BB60-E657-4775-8595-2B277CAB1B67}
+	EndGlobalSection
+EndGlobal

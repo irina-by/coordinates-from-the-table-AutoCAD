@@ -1,0 +1,8 @@
+C:\Users\Irishka\Desktop\coordinates from the table AutoCAD\AutoCAD coordinates from the table\obj\Debug\AutoCAD coordinates from the table.csproj.AssemblyReference.cache
+C:\Users\Irishka\Desktop\coordinates from the table AutoCAD\AutoCAD coordinates from the table\obj\Debug\TextCoordinatesExporter.resources
+C:\Users\Irishka\Desktop\coordinates from the table AutoCAD\AutoCAD coordinates from the table\obj\Debug\AutoCAD coordinates from the table.csproj.GenerateResource.cache
+C:\Users\Irishka\Desktop\coordinates from the table AutoCAD\AutoCAD coordinates from the table\obj\Debug\AutoCAD coordinates from the table.csproj.CoreCompileInputs.cache
+C:\Users\Irishka\Desktop\coordinates from the table AutoCAD\AutoCAD coordinates from the table\bin\Debug\AutoCAD coordinates from the table.dll
+C:\Users\Irishka\Desktop\coordinates from the table AutoCAD\AutoCAD coordinates from the table\bin\Debug\AutoCAD coordinates from the table.pdb
+C:\Users\Irishka\Desktop\coordinates from the table AutoCAD\AutoCAD coordinates from the table\obj\Debug\AutoCAD coordinates from the table.dll
+C:\Users\Irishka\Desktop\coordinates from the table AutoCAD\AutoCAD coordinates from the table\obj\Debug\AutoCAD coordinates from the table.pdb
